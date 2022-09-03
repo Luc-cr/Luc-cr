@@ -1,4 +1,6 @@
-![MasterHead](https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/nural-network-banner.gif)
+<p align="center">
+  <img src="https://rjionline.org/wp-content/uploads/sites/2/2020/07/neural-network-animated.gif" alt="animated" />
+</p>
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">A passionate developer from Argentina</h3>
 
