@@ -10,4 +10,4 @@
 
 - 🔭 I’m currently working on... **[ Prediccion_de_orientacion](https://github.com/Luc-cr/Prediccion_de_orientacion)**
 
-- ⚡ Fun fact: **I love **
+- ⚡ Fun fact: **I love Fallout**
