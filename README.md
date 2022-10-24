@@ -10,6 +10,6 @@
 
 - 🌱 I’m currently learning... **Neural Networks**
 
-- 🔭 I’m currently working on... **[ Prediccion_de_orientacion](https://github.com/Luc-cr/Prediccion_de_orientacion)**
+- 🔭 I’m currently working on... **[Reaction](https://github.com/Luc-cr/Reaction)**
 
 - ⚡ Fun fact: **I love Fallout**
