@@ -10,6 +10,6 @@
 
 - 🌱 I’m currently learning... **Neural Networks**
 
-- 🔭 I’m currently working on... **[Reaction](https://github.com/Luc-cr/Reaction)**
+- 🔭 I’m currently working on... **[C 6502 Compiler](https://github.com/Luc-cr/The-6502-C-Compiler)**
 
 - ⚡ Fun fact: **I love Fallout**
