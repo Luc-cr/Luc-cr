@@ -6,7 +6,7 @@
 
 - 🔸 AKA: **Luc**
 
-- 📌 I'm interested in... **Python, IA, data science**
+- 📌 I'm interested in... **Python, IA, Computer Science, C++**
 
 - 🌱 I’m currently learning... **Neural Networks**
 
