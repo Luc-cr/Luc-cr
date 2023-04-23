@@ -10,6 +10,6 @@
 
 - 🌱 I’m currently learning... **How to write a Compiler**
 
-- 🔭 I’m currently working on... **[C 6502 Compiler](https://github.com/Luc-cr/The-6502-C-Compiler)**
+- 🔭 I’m currently working on... **[WindowsSocketsCplusplus](https://github.com/Luc-cr/WindowsSocketsCplusplus)**
 
 - ⚡ Fun fact: **I love Fallout**
