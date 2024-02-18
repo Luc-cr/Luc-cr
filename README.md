@@ -6,10 +6,10 @@
 
 - 🔸 AKA: **Luc**
 
-- 📌 I'm interested in... **Python, IA, Computer Science, C++**
+- 📌 I'm interested in... **C++, Low Level, IA, Engineering**
 
-- 🌱 I’m currently learning... **How to write a Compiler**
+- 🌱 I’m currently learning... **OS Dev**
 
-- 🔭 I’m currently working on... **[WindowsSocketsCplusplus](https://github.com/Luc-cr/WindowsSocketsCplusplus)**
+- 🔭 I’m currently working on... **[AKICPP](https://github.com/luc0x/AKICPP)**
 
-- ⚡ Fun fact: **I love Fallout**
+- ⚡ Fun fact: **I hate JavaScript**
