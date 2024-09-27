@@ -7,6 +7,6 @@
 
 - 🌱 I’m currently learning... **OS Dev**
 
-- 🔭 I’m currently working on... **[LASK](https://github.com/luc0x/LASK)**
+- 🔭 I’m currently working on... 
 
 - ⚡ Fun fact: **I hate JavaScript**
